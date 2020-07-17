@@ -2,5 +2,8 @@
     "name": "D-Calc",
     "short_name": "D-calc",
     "description": "O D-Calc busca a quantidade em litros para cada medida em centímetros da régua",
-    "start_url": "https://www.d-calc.ml/index.html"
+    "start_url": "https://www.d-calc.ml/index.html",
+    "orientation": "portrait",
+    "display": "fullscreen",
+    "lang": "Portuguese"
 }
