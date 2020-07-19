@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "ml.d_calc.www.twa",
+                   "sha256_cert_fingerprints": ["A8:CC:C7:8F:1C:9A:9F:35:6D:F9:5B:6F:15:BD:7F:66:B2:56:80:A4:E9:6D:14:E5:AE:C6:3A:C8:EF:19:AF:54"] }
+    }]
