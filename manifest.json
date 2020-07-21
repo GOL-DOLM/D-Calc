@@ -1,22 +1,129 @@
 {
-  "name": "D-Calc",
-  "short_name": "D-Calc",
-  "version": "1.4.0"
-  "author": "Jonatas Caldas"
-  "start_url": "https://www.d-calc.ml/index",
-  "display": "fullscreen",
-  "background_color": "#ffffff",
-  "description": "O D-Calc busca a quantidade em litros para cada medida em centímetros da régua",
-  "theme_color": "#ffffff",
-  "icons": [
-    {
-      "src": "img/ico.png",
-      "sizes": "512x512",
-      "type": "image/png"
-    }
-  ],
-  "url": "https://www.d-calc.ml/index",
-  "lang": "pr-BR",
-  "orientation": "portrait"
-  "scope": "/"
+    "dir": "ltr",
+    "lang": "Portuguese",
+    "name": "D-Calc",
+    "short_name": "D-Calc",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://www.d-calc.ml",
+    "background_color": "transparent",
+    "theme_color": "transparent",
+    "description": "O D-Calc busca a quantidade em litros para cada medida em centímetros da régua",
+    "orientation": "portrait",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://www.d-calc.ml//img/favicon.ico",
+            "sizes": "16x16"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://www.d-calc.ml",
+    "screenshots": [
+        {
+            "src": "[Embedded]",
+            "sizes": "1280x800",
+            "type": "image/png"
+        },
+        {
+            "src": "[Embedded]",
+            "sizes": "750x1334",
+            "type": "image/png"
+        }
+    ]
 }
