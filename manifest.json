@@ -1,11 +1,10 @@
 {
-    "dir": "ltr",
     "lang": "Portuguese",
     "name": "D-Calc",
     "short_name": "D-Calc",
     "scope": "/",
     "display": "fullscreen",
-    "start_url": "https://www.d-calc.ml",
+    "start_url": "https://www.d-calc.ml/index.html",
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
     "description": "O D-Calc busca a quantidade em litros para cada medida em centímetros da régua",
@@ -14,7 +13,7 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "https://www.d-calc.ml//img/favicon.ico",
+            "src": "https://www.d-calc.ml/img/favicon.ico",
             "sizes": "16x16"
         },
         {
@@ -113,7 +112,7 @@
             "type": "image/png"
         }
     ],
-    "url": "https://www.d-calc.ml",
+    "url": "https://www.d-calc.ml/index.html",
     "screenshots": [
         {
             "src": "[Embedded]",
