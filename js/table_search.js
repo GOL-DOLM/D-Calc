@@ -22,3 +22,4 @@ function table_search(search,tr,indexSearch='0') {
         }
     }
 }
+
