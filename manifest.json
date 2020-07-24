@@ -21,10 +21,10 @@
             "sizes": "44x44",
             "type": "image/png"
         },
-        {
-            "src": "img/maskable_icon.png"
-            "sizes": "512x512",
-            "type": "image/png"
+        {            
+            "src": "img/to/maskable_icon.png",
+            "sizes": "196x196",
+            "type": "image/png",
             "purpose": "maskable"
         },
         {
